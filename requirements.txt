@@ -1,11 +1,11 @@
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
-xgboost
-tensorflow == 2.5.3
-keras
-tcn
-scikit-learn
-streamlit
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+statsmodels>=0.12.0
+xgboost>=1.4.0
+tensorflow>=2.11.0
+keras>=2.11.0
+tcn>=3.4.0
+scikit-learn>=1.0.0
+streamlit>=1.20.0
