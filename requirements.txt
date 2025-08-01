@@ -4,7 +4,7 @@ matplotlib
 seaborn
 statsmodels
 xgboost
-tensorflow
+tensorflow == 2.5.3
 keras
 tcn
 scikit-learn
